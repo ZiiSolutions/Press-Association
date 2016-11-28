@@ -1,0 +1,6 @@
+com\pressassociation\test\Palindrome.class
+com\pressassociation\test\WordWrapper.class
+com\pressassociation\test\interfaces\Dispatcher.class
+com\pressassociation\test\Deduplicator.class
+com\pressassociation\test\PubSubController.class
+com\pressassociation\test\Fibonacci.class
